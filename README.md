@@ -1,3 +1,5 @@
+> **Moved:** the frontend now lives in [`carteakey/cinemattr` → `web/`](https://github.com/carteakey/cinemattr/tree/main/web) alongside the backend, with full history and all branches (as `web/<branch>`). This repo is archived.
+
 # cinemattr.ca
 
 Natural-language movie search. SvelteKit frontend backed by a FastAPI search API.
